@@ -68,7 +68,7 @@
 
 **🧮 Vazifa:** f-string orqali ism va yoshdan iborat gap tuzing.\
 **📥 Kirish:** `"Ali"`, `20`\
-**📤 Chiqish:** `My name is Ali and I am 20 years old.`
+**📤 Chiqish:** ``My name is Ali and I am 20 years old.
 
 ---
 
@@ -83,7 +83,7 @@
 ### 🔹 11. Gapda nuqta (`.`) necha marta qatnashganini sanang
 
 **🧮 Vazifa:** Stringda nechta nuqta borligini sanang.\
-**📥 Kirish:** `"file.txt.2025.report.doc"`\
+**📥 Kirish:** `"   .doc"`\
 **📤 Chiqish:** `4`
 
 ---
@@ -98,8 +98,8 @@
 
 ### 🔹 13. Tozalangan foydalanuvchi ismi
 
-**🧮 Vazifa:** Ismni bo‘sh joylardan tozalab, birinchi harfini katta harf qiling.\
-**📥 Kirish:** `"   ali  valiyev"`\
+**🧮 Vazifa:** Ismni bo‘sh joylardan tozalab, birinchi harfini katta harf qiling.\   ali  valiyev
+**📥 Kirish:** `""`\
 **📤 Chiqish:** `Ali Valiyev`
 
 ---
@@ -146,7 +146,7 @@
 - [90, 100]: `"A (A'lo)"`
 - [80, 89]: `"B (Yaxshi)"`
 - [70, 79]: `"C (Qoniqarli)"`
-- [60, 69]: `"D (Qoniqarsiz)"`
+- iz)"`[60, 69]: `"D (Qoniqars
 - [0, 59]: `"F (Yomon)"`
 - Aks xolatda: `"Ball 0-100 oralig'ida bo'lishi kerak!"`
 
