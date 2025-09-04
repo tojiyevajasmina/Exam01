@@ -1,3 +1,6 @@
 matn = input("matn kiriting:")
- 
-result = matn.
+matn2 = input("matn kiriting:")
+
+result = matn.find(matn2)
+
+print(result)
